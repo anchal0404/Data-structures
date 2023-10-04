@@ -75,6 +75,7 @@ struct Node * deleteAtFirst(struct Node* head)
 
 struct Node * deleteAtEnd(struct Node *head)
 {
+	
 }
 //Main Function
 int main(int argc, char const *argv[])
